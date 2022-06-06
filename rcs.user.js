@@ -1,1 +1,0 @@
-npm i @pubby/sdk@0.0.4-0 ou yarn add @pubby/sdk@0.0.4-0
